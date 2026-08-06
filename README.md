@@ -9,6 +9,7 @@ LEETCODE
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasit96/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aasit96/DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/aasit96/DSA-/tree/master/2469-convert-the-temperature) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aasit96/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,4 +68,8 @@ LEETCODE
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aasit96/DSA-/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aasit96/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
