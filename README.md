@@ -14,6 +14,7 @@ LEETCODE
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aasit96/DSA-/tree/master/0152-maximum-product-subarray) |
 | [1572-matrix-diagonal-sum](https://github.com/aasit96/DSA-/tree/master/1572-matrix-diagonal-sum) |
@@ -39,6 +40,7 @@ LEETCODE
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
 ## Matrix
