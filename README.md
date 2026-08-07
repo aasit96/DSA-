@@ -26,6 +26,7 @@ LEETCODE
 | [0442-find-all-duplicates-in-an-array](https://github.com/aasit96/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aasit96/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aasit96/DSA-/tree/master/0645-set-mismatch) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aasit96/DSA-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/aasit96/DSA-/tree/master/1572-matrix-diagonal-sum) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aasit96/DSA-/tree/master/2733-neither-minimum-nor-maximum) |
@@ -56,6 +57,7 @@ LEETCODE
 | [0442-find-all-duplicates-in-an-array](https://github.com/aasit96/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aasit96/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aasit96/DSA-/tree/master/0645-set-mismatch) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aasit96/DSA-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -77,4 +79,8 @@ LEETCODE
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/aasit96/DSA-/tree/master/0162-find-peak-element) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aasit96/DSA-/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
