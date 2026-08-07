@@ -22,6 +22,7 @@ LEETCODE
 | [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aasit96/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/aasit96/DSA-/tree/master/0162-find-peak-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aasit96/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aasit96/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aasit96/DSA-/tree/master/0645-set-mismatch) |
@@ -72,4 +73,8 @@ LEETCODE
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aasit96/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/aasit96/DSA-/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
