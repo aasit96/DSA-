@@ -29,6 +29,7 @@ LEETCODE
 | [0645-set-mismatch](https://github.com/aasit96/DSA-/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aasit96/DSA-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/aasit96/DSA-/tree/master/1572-matrix-diagonal-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aasit96/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aasit96/DSA-/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
@@ -50,6 +51,7 @@ LEETCODE
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aasit96/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
