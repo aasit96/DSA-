@@ -22,7 +22,7 @@ public:
                 thirdmax=nums[i];
             }
         }
-        // agar thirdmax=INT_MIN agar true hai to firstmax , agar false thirdmax
+        // agar thirdmax=_MIN agar true hai to firstmax , agar false thirdmax
         return thirdmax == LONG_MIN ? firstmax : thirdmax;
 
     }
