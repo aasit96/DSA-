@@ -7,8 +7,11 @@ public:
         if(nums[end]%2==0){
             swap(nums[start],nums[end]);
             start++;
-            }
             end++;
+            }
+            else{
+            end++;
+            }
 
         }
        return nums;
