@@ -9,6 +9,7 @@ public:
             if(nums[i]/n>=2)
             return i;
         }
-        return 0;
+        return -1;
+        
     }  
 };
