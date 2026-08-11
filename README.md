@@ -7,6 +7,7 @@ LEETCODE
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
+| [0263-ugly-number](https://github.com/aasit96/DSA-/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasit96/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aasit96/DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/aasit96/DSA-/tree/master/2469-convert-the-temperature) |
