@@ -7,6 +7,7 @@ LEETCODE
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aasit96/DSA-/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasit96/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aasit96/DSA-/tree/master/1486-xor-operation-in-an-array) |
@@ -114,4 +115,12 @@ LEETCODE
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
