@@ -4,6 +4,8 @@ public:
         int n=nums.size();
         int firstmaxi=INT_MIN;
         int secondmaxi=INT_MIN;
+         int firstmin=INT_MAX;
+        int secondmin=INT_MAX;
         for(int i=0;i<n;i++){
             if(nums[i]>=firstmaxi){
             secondmaxi=firstmaxi;
@@ -13,10 +15,6 @@ public:
                 secondmaxi=nums[i];
 
             }
-        }
-        int firstmin=INT_MAX;
-        int secondmin=INT_MAX;
-        for(int i=0;i<n;i++){
             if(nums[i]<=firstmin){
                 secondmin=firstmin;
                 firstmin=nums[i];
