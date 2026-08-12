@@ -4,7 +4,6 @@ public:
         int n=nums.size();
         int start=1,end=0,mid;
         for(int i=0;i<n;i++){
-            start=min(start,nums[i]);
             end=max(end,nums[i]);
         }
         int ans=-1;
