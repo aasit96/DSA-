@@ -17,6 +17,7 @@ public:
                 // start se duplicate se bachne ke liye
                 while(start<end && nums[start]==nums[start-1])
                 start++;
+                // end ke duplicate ke liye
                 while(start<end && nums[end]==nums[end+1])
                 end--;
                 }
