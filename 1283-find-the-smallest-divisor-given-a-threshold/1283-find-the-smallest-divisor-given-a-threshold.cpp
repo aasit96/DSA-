@@ -9,7 +9,7 @@ public:
         int ans=-1;
         while(start<=end){
             mid=start+(end-start)/2;
-            int sum=0;
+            long long sum=0;
             for(int i=0;i<n;i++){
                  sum+=(nums[i]+mid-1)/mid;
             }
