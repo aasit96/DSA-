@@ -23,6 +23,7 @@ LEETCODE
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@ LEETCODE
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/aasit96/DSA-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aasit96/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -105,6 +107,7 @@ LEETCODE
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
 ## Pigeonhole Principle
