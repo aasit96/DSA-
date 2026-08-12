@@ -7,7 +7,7 @@ public:
             freq[x]++;
         }
         for(auto x:freq){
-            if(x.second==n)
+            if(x.second>=n)
             return x.first;
         }
         return -1;
