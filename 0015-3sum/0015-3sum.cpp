@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         sort(nums.begin(),nums.end());
         vector<vector<int>>ans;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n-2;i++){
             // duplicate se bachne ke liye kyuki agar current and lastcurrent dono same hai to uske liye bhi triplet
             if(i>0 && nums[i]==nums[i-1])
             continue;
