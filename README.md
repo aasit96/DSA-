@@ -8,6 +8,7 @@ LEETCODE
 | ------- |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/aasit96/DSA-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aasit96/DSA-/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasit96/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -17,6 +18,7 @@ LEETCODE
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aasit96/DSA-/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/aasit96/DSA-/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasit96/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -139,4 +141,8 @@ LEETCODE
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aasit96/DSA-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
