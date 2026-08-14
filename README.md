@@ -7,6 +7,7 @@ LEETCODE
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aasit96/DSA-/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasit96/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -73,6 +74,7 @@ LEETCODE
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aasit96/DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aasit96/DSA-/tree/master/0560-subarray-sum-equals-k) |
@@ -111,6 +113,7 @@ LEETCODE
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
+| [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
 ## Pigeonhole Principle
@@ -121,6 +124,7 @@ LEETCODE
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
