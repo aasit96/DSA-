@@ -7,6 +7,7 @@ LEETCODE
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/aasit96/DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aasit96/DSA-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
@@ -66,6 +67,7 @@ LEETCODE
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aasit96/DSA-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aasit96/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/aasit96/DSA-/tree/master/0509-fibonacci-number) |
@@ -151,5 +153,6 @@ LEETCODE
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aasit96/DSA-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aasit96/DSA-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
