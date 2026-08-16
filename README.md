@@ -52,6 +52,7 @@ LEETCODE
 | [2733-neither-minimum-nor-maximum](https://github.com/aasit96/DSA-/tree/master/2733-neither-minimum-nor-maximum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aasit96/DSA-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/aasit96/DSA-/tree/master/3745-maximize-expression-of-three-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/aasit96/DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@ LEETCODE
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aasit96/DSA-/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/aasit96/DSA-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +80,7 @@ LEETCODE
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aasit96/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
+| [3745-maximize-expression-of-three-elements](https://github.com/aasit96/DSA-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +110,7 @@ LEETCODE
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aasit96/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/aasit96/DSA-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
 | ------- |
