@@ -17,6 +17,7 @@ LEETCODE
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasit96/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aasit96/DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/aasit96/DSA-/tree/master/2469-convert-the-temperature) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aasit96/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
@@ -147,6 +148,7 @@ LEETCODE
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/aasit96/DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
@@ -163,4 +165,8 @@ LEETCODE
 | ------- |
 | [0070-climbing-stairs](https://github.com/aasit96/DSA-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aasit96/DSA-/tree/master/0509-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
