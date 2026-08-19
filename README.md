@@ -51,6 +51,7 @@ LEETCODE
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/aasit96/DSA-/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aasit96/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aasit96/DSA-/tree/master/2733-neither-minimum-nor-maximum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aasit96/DSA-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -67,6 +68,7 @@ LEETCODE
 | [0645-set-mismatch](https://github.com/aasit96/DSA-/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aasit96/DSA-/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
@@ -82,6 +84,7 @@ LEETCODE
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aasit96/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aasit96/DSA-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
@@ -131,6 +134,7 @@ LEETCODE
 | [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
