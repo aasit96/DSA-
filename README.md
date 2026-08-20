@@ -184,4 +184,16 @@ LEETCODE
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aasit96/DSA-/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aasit96/DSA-/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aasit96/DSA-/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
