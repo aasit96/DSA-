@@ -56,6 +56,7 @@ LEETCODE
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aasit96/DSA-/tree/master/2733-neither-minimum-nor-maximum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aasit96/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aasit96/DSA-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aasit96/DSA-/tree/master/3745-maximize-expression-of-three-elements) |
@@ -155,6 +156,7 @@ LEETCODE
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aasit96/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/aasit96/DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
