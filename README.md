@@ -50,6 +50,7 @@ LEETCODE
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aasit96/DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aasit96/DSA-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aasit96/DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aasit96/DSA-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/aasit96/DSA-/tree/master/1572-matrix-diagonal-sum) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/aasit96/DSA-/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
