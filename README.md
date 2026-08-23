@@ -116,6 +116,7 @@ LEETCODE
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasit96/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
@@ -142,6 +143,7 @@ LEETCODE
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasit96/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasit96/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -224,4 +226,20 @@ LEETCODE
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasit96/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasit96/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasit96/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasit96/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
