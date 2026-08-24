@@ -6,6 +6,7 @@ LEETCODE
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/aasit96/DSA-/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/aasit96/DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
