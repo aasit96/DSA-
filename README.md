@@ -44,6 +44,7 @@ LEETCODE
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aasit96/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aasit96/DSA-/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/aasit96/DSA-/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/aasit96/DSA-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasit96/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -76,6 +77,7 @@ LEETCODE
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
+| [0164-maximum-gap](https://github.com/aasit96/DSA-/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasit96/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aasit96/DSA-/tree/master/0414-third-maximum-number) |
@@ -171,6 +173,7 @@ LEETCODE
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/aasit96/DSA-/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aasit96/DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
@@ -236,10 +239,12 @@ LEETCODE
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/aasit96/DSA-/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/aasit96/DSA-/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
