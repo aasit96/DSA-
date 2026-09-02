@@ -24,6 +24,7 @@ LEETCODE
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aasit96/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aasit96/DSA-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aasit96/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ LEETCODE
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aasit96/DSA-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aasit96/DSA-/tree/master/3745-maximize-expression-of-three-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aasit96/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/aasit96/DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
