@@ -7,6 +7,7 @@ LEETCODE
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aasit96/DSA-/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/aasit96/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aasit96/DSA-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/aasit96/DSA-/tree/master/0070-climbing-stairs) |
@@ -111,6 +112,7 @@ LEETCODE
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aasit96/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aasit96/DSA-/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/aasit96/DSA-/tree/master/0202-happy-number) |
@@ -131,6 +133,7 @@ LEETCODE
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aasit96/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aasit96/DSA-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasit96/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/aasit96/DSA-/tree/master/0125-valid-palindrome) |
