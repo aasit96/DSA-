@@ -61,6 +61,7 @@ LEETCODE
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aasit96/DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aasit96/DSA-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/aasit96/DSA-/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/aasit96/DSA-/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/aasit96/DSA-/tree/master/1572-matrix-diagonal-sum) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/aasit96/DSA-/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
