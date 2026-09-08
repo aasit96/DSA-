@@ -113,6 +113,7 @@ LEETCODE
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aasit96/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aasit96/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aasit96/DSA-/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
@@ -134,6 +135,7 @@ LEETCODE
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aasit96/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aasit96/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aasit96/DSA-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0020-valid-parentheses) |
@@ -284,4 +286,8 @@ LEETCODE
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aasit96/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
