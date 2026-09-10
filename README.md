@@ -30,6 +30,7 @@ LEETCODE
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aasit96/DSA-/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/aasit96/DSA-/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/aasit96/DSA-/tree/master/0342-power-of-four) |
@@ -43,6 +44,7 @@ LEETCODE
 | [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/aasit96/DSA-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aasit96/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aasit96/DSA-/tree/master/0162-find-peak-element) |
@@ -294,4 +296,8 @@ LEETCODE
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aasit96/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aasit96/DSA-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
