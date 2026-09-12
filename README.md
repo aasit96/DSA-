@@ -106,6 +106,7 @@ LEETCODE
 | [0070-climbing-stairs](https://github.com/aasit96/DSA-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aasit96/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/aasit96/DSA-/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/aasit96/DSA-/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -150,6 +151,7 @@ LEETCODE
 | [0125-valid-palindrome](https://github.com/aasit96/DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aasit96/DSA-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/aasit96/DSA-/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aasit96/DSA-/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/aasit96/DSA-/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aasit96/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -187,6 +189,7 @@ LEETCODE
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aasit96/DSA-/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasit96/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/aasit96/DSA-/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Pigeonhole Principle
