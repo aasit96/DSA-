@@ -43,6 +43,7 @@ LEETCODE
 | ------- |
 | [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/aasit96/DSA-/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/aasit96/DSA-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -304,5 +305,6 @@ LEETCODE
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/aasit96/DSA-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aasit96/DSA-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
