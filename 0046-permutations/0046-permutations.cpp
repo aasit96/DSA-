@@ -1,26 +1,21 @@
 class Solution {
 public:
-     void permut(vector<int>& nums, vector<int>temp,vector<vector<int> >&ans,vector<bool>&visited,int n){
-        if(visited.size()==temp.size()){
-            ans.push_back(temp);
-            return ;
-        }
-        for(int i=0;i<n;i++){
-            if(visited[i]==0){
-                visited[i]=1;
-                temp.push_back(nums[i]);
-                permut(nums,temp,ans,visited,n);
-                visited[i]=0;
-                temp.pop_back();
-            }
-        }
-     }
+
+void permut(vector<int>&nums,vector<vector<int> > &ans,int index){
+    if(index==nums.size()){
+    ans.push_back(nums);
+    return ;
+    }
+
+    for(int i=index;i<nums.size();i++){
+        swap(nums[i],nums[index]);
+        permut(nums,ans,index+1);
+        swap(nums[i],nums[index]);
+    }
+};
     vector<vector<int>> permute(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>temp;
-        vector<vector<int> >ans;
-        vector<bool>visited(n,0);
-        permut(nums,temp,ans,visited,n);
+        vector<vector<int>>ans;
+        permut(nums,ans,0);
         return ans;
     }
 };
