@@ -20,6 +20,7 @@ LEETCODE
 | [0509-fibonacci-number](https://github.com/aasit96/DSA-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aasit96/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/aasit96/DSA-/tree/master/0836-rectangle-overlap) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aasit96/DSA-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasit96/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aasit96/DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/aasit96/DSA-/tree/master/2469-convert-the-temperature) |
@@ -65,6 +66,7 @@ LEETCODE
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aasit96/DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aasit96/DSA-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aasit96/DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aasit96/DSA-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aasit96/DSA-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/aasit96/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/aasit96/DSA-/tree/master/1550-three-consecutive-odds) |
