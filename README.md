@@ -107,6 +107,7 @@ LEETCODE
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/aasit96/DSA-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aasit96/DSA-/tree/master/0152-maximum-product-subarray) |
@@ -151,6 +152,7 @@ LEETCODE
 | [0012-integer-to-roman](https://github.com/aasit96/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aasit96/DSA-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasit96/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/aasit96/DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
@@ -301,6 +303,7 @@ LEETCODE
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -308,6 +311,7 @@ LEETCODE
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/aasit96/DSA-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aasit96/DSA-/tree/master/0078-subsets) |
 ## Geometry
