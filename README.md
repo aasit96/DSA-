@@ -63,6 +63,7 @@ LEETCODE
 | [0566-reshape-the-matrix](https://github.com/aasit96/DSA-/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aasit96/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aasit96/DSA-/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/aasit96/DSA-/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aasit96/DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -172,6 +173,7 @@ LEETCODE
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aasit96/DSA-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/aasit96/DSA-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/aasit96/DSA-/tree/master/0724-find-pivot-index) |
 ## Enumeration
 |  |
 | ------- |
