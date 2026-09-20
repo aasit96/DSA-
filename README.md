@@ -169,6 +169,7 @@ LEETCODE
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aasit96/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/aasit96/DSA-/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/aasit96/DSA-/tree/master/2785-sort-vowels-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/aasit96/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -228,6 +229,7 @@ LEETCODE
 | [0566-reshape-the-matrix](https://github.com/aasit96/DSA-/tree/master/0566-reshape-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aasit96/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/aasit96/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/aasit96/DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
