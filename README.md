@@ -174,6 +174,7 @@ LEETCODE
 | [0392-is-subsequence](https://github.com/aasit96/DSA-/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aasit96/DSA-/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/aasit96/DSA-/tree/master/0771-jewels-and-stones) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aasit96/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/aasit96/DSA-/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/aasit96/DSA-/tree/master/2785-sort-vowels-in-a-string) |
@@ -266,6 +267,7 @@ LEETCODE
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/aasit96/DSA-/tree/master/0232-implement-queue-using-stacks) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -325,6 +327,7 @@ LEETCODE
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
