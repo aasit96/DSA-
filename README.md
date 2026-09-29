@@ -68,6 +68,7 @@ LEETCODE
 | [0645-set-mismatch](https://github.com/aasit96/DSA-/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/aasit96/DSA-/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aasit96/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/aasit96/DSA-/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aasit96/DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -155,6 +156,7 @@ LEETCODE
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/aasit96/DSA-/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/aasit96/DSA-/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aasit96/DSA-/tree/master/1572-matrix-diagonal-sum) |
 ## String
 |  |
