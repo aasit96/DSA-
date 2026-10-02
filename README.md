@@ -32,6 +32,7 @@ LEETCODE
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aasit96/DSA-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/aasit96/DSA-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aasit96/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/aasit96/DSA-/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@ LEETCODE
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aasit96/DSA-/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aasit96/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/aasit96/DSA-/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/aasit96/DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
