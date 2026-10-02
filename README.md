@@ -83,6 +83,7 @@ LEETCODE
 | [1539-kth-missing-positive-number](https://github.com/aasit96/DSA-/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/aasit96/DSA-/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/aasit96/DSA-/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/aasit96/DSA-/tree/master/1672-richest-customer-wealth) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/aasit96/DSA-/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -165,6 +166,7 @@ LEETCODE
 | [0566-reshape-the-matrix](https://github.com/aasit96/DSA-/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/aasit96/DSA-/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aasit96/DSA-/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/aasit96/DSA-/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
