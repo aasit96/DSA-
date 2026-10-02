@@ -50,6 +50,7 @@ LEETCODE
 | [0014-longest-common-prefix](https://github.com/aasit96/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aasit96/DSA-/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/aasit96/DSA-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/aasit96/DSA-/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
@@ -349,6 +350,7 @@ LEETCODE
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aasit96/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/aasit96/DSA-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aasit96/DSA-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aasit96/DSA-/tree/master/0078-subsets) |
 ## Geometry
