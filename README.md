@@ -87,6 +87,7 @@ LEETCODE
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aasit96/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aasit96/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/aasit96/DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
@@ -225,6 +226,7 @@ LEETCODE
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasit96/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/aasit96/DSA-/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aasit96/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Pigeonhole Principle
 |  |
@@ -248,6 +250,7 @@ LEETCODE
 | [0566-reshape-the-matrix](https://github.com/aasit96/DSA-/tree/master/0566-reshape-the-matrix) |
 | [0946-validate-stack-sequences](https://github.com/aasit96/DSA-/tree/master/0946-validate-stack-sequences) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aasit96/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aasit96/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aasit96/DSA-/tree/master/3498-reverse-degree-of-a-string) |
