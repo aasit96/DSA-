@@ -126,6 +126,7 @@ LEETCODE
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/aasit96/DSA-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aasit96/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aasit96/DSA-/tree/master/0152-maximum-product-subarray) |
@@ -178,6 +179,7 @@ LEETCODE
 | [0020-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aasit96/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aasit96/DSA-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aasit96/DSA-/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
@@ -286,6 +288,7 @@ LEETCODE
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/aasit96/DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0946-validate-stack-sequences](https://github.com/aasit96/DSA-/tree/master/0946-validate-stack-sequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -350,6 +353,7 @@ LEETCODE
 | ------- |
 | [0020-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aasit96/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
