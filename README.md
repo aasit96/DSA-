@@ -72,6 +72,7 @@ LEETCODE
 | [0724-find-pivot-index](https://github.com/aasit96/DSA-/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aasit96/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/aasit96/DSA-/tree/master/0766-toeplitz-matrix) |
+| [0896-monotonic-array](https://github.com/aasit96/DSA-/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/aasit96/DSA-/tree/master/0946-validate-stack-sequences) |
