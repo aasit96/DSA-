@@ -85,6 +85,7 @@ LEETCODE
 | [1550-three-consecutive-odds](https://github.com/aasit96/DSA-/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/aasit96/DSA-/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/aasit96/DSA-/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/aasit96/DSA-/tree/master/1748-sum-of-unique-elements) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/aasit96/DSA-/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -160,6 +161,7 @@ LEETCODE
 | [0771-jewels-and-stones](https://github.com/aasit96/DSA-/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aasit96/DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aasit96/DSA-/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/aasit96/DSA-/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aasit96/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -220,6 +222,7 @@ LEETCODE
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aasit96/DSA-/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/aasit96/DSA-/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
