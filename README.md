@@ -62,6 +62,7 @@ LEETCODE
 | [0152-maximum-product-subarray](https://github.com/aasit96/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aasit96/DSA-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/aasit96/DSA-/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aasit96/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/aasit96/DSA-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/aasit96/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasit96/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,6 +116,7 @@ LEETCODE
 | ------- |
 | [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/aasit96/DSA-/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aasit96/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasit96/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aasit96/DSA-/tree/master/0414-third-maximum-number) |
@@ -321,10 +323,12 @@ LEETCODE
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aasit96/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aasit96/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -392,4 +396,8 @@ LEETCODE
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aasit96/DSA-/tree/master/0014-longest-common-prefix) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aasit96/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
