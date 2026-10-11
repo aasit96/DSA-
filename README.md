@@ -99,6 +99,7 @@ LEETCODE
 | [2574-left-and-right-sum-differences](https://github.com/aasit96/DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aasit96/DSA-/tree/master/2733-neither-minimum-nor-maximum) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/aasit96/DSA-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aasit96/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aasit96/DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aasit96/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
