@@ -91,6 +91,7 @@ LEETCODE
 | [1672-richest-customer-wealth](https://github.com/aasit96/DSA-/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/aasit96/DSA-/tree/master/1748-sum-of-unique-elements) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/aasit96/DSA-/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [1816-truncate-sentence](https://github.com/aasit96/DSA-/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aasit96/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -205,6 +206,7 @@ LEETCODE
 | [0771-jewels-and-stones](https://github.com/aasit96/DSA-/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aasit96/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1816-truncate-sentence](https://github.com/aasit96/DSA-/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aasit96/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/aasit96/DSA-/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/aasit96/DSA-/tree/master/2785-sort-vowels-in-a-string) |
