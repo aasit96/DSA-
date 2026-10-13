@@ -96,6 +96,7 @@ LEETCODE
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aasit96/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aasit96/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/aasit96/DSA-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/aasit96/DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
@@ -130,6 +131,7 @@ LEETCODE
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/aasit96/DSA-/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aasit96/DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/aasit96/DSA-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/aasit96/DSA-/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aasit96/DSA-/tree/master/2733-neither-minimum-nor-maximum) |
