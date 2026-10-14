@@ -36,6 +36,7 @@ LEETCODE
 | [3870-count-commas-in-range](https://github.com/aasit96/DSA-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aasit96/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/aasit96/DSA-/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/aasit96/DSA-/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +181,7 @@ LEETCODE
 | [1748-sum-of-unique-elements](https://github.com/aasit96/DSA-/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aasit96/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/aasit96/DSA-/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/aasit96/DSA-/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
