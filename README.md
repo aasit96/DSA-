@@ -26,6 +26,7 @@ LEETCODE
 | [1486-xor-operation-in-an-array](https://github.com/aasit96/DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2469-convert-the-temperature](https://github.com/aasit96/DSA-/tree/master/2469-convert-the-temperature) |
+| [2769-find-the-maximum-achievable-number](https://github.com/aasit96/DSA-/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aasit96/DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aasit96/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
