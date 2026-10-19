@@ -30,6 +30,7 @@ LEETCODE
 | [2769-find-the-maximum-achievable-number](https://github.com/aasit96/DSA-/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aasit96/DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasit96/DSA-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aasit96/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aasit96/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aasit96/DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -108,6 +109,7 @@ LEETCODE
 | [2798-number-of-employees-who-met-the-target](https://github.com/aasit96/DSA-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aasit96/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aasit96/DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasit96/DSA-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aasit96/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/aasit96/DSA-/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aasit96/DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -289,6 +291,7 @@ LEETCODE
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aasit96/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/aasit96/DSA-/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasit96/DSA-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aasit96/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aasit96/DSA-/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/aasit96/DSA-/tree/master/3925-concatenate-array-with-reverse) |
@@ -343,6 +346,7 @@ LEETCODE
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aasit96/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/aasit96/DSA-/tree/master/0912-sort-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasit96/DSA-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
