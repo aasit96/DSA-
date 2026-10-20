@@ -39,6 +39,7 @@ LEETCODE
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aasit96/DSA-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/aasit96/DSA-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aasit96/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/aasit96/DSA-/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/aasit96/DSA-/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/aasit96/DSA-/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -222,6 +223,7 @@ LEETCODE
 | [3174-clear-digits](https://github.com/aasit96/DSA-/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/aasit96/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/aasit96/DSA-/tree/master/3884-first-matching-character-from-both-ends) |
+| [3894-traffic-signal-color](https://github.com/aasit96/DSA-/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -294,6 +296,7 @@ LEETCODE
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aasit96/DSA-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aasit96/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aasit96/DSA-/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/aasit96/DSA-/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/aasit96/DSA-/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
