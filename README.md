@@ -18,6 +18,7 @@ LEETCODE
 | [0263-ugly-number](https://github.com/aasit96/DSA-/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/aasit96/DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aasit96/DSA-/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/aasit96/DSA-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aasit96/DSA-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aasit96/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/aasit96/DSA-/tree/master/0836-rectangle-overlap) |
@@ -213,6 +214,7 @@ LEETCODE
 | [0344-reverse-string](https://github.com/aasit96/DSA-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/aasit96/DSA-/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aasit96/DSA-/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/aasit96/DSA-/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/aasit96/DSA-/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aasit96/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -286,6 +288,7 @@ LEETCODE
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aasit96/DSA-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/aasit96/DSA-/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/aasit96/DSA-/tree/master/0566-reshape-the-matrix) |
 | [0946-validate-stack-sequences](https://github.com/aasit96/DSA-/tree/master/0946-validate-stack-sequences) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
