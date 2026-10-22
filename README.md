@@ -221,6 +221,7 @@ LEETCODE
 | [1816-truncate-sentence](https://github.com/aasit96/DSA-/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aasit96/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/aasit96/DSA-/tree/master/1859-sorting-the-sentence) |
+| [2390-removing-stars-from-a-string](https://github.com/aasit96/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/aasit96/DSA-/tree/master/2785-sort-vowels-in-a-string) |
 | [3174-clear-digits](https://github.com/aasit96/DSA-/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/aasit96/DSA-/tree/master/3498-reverse-degree-of-a-string) |
@@ -293,6 +294,7 @@ LEETCODE
 | [0946-validate-stack-sequences](https://github.com/aasit96/DSA-/tree/master/0946-validate-stack-sequences) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aasit96/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/aasit96/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aasit96/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/aasit96/DSA-/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/aasit96/DSA-/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -332,6 +334,7 @@ LEETCODE
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aasit96/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/aasit96/DSA-/tree/master/0946-validate-stack-sequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/aasit96/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/aasit96/DSA-/tree/master/3174-clear-digits) |
 ## Design
 |  |
