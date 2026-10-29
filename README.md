@@ -234,6 +234,7 @@ LEETCODE
 | [3110-score-of-a-string](https://github.com/aasit96/DSA-/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/aasit96/DSA-/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/aasit96/DSA-/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/aasit96/DSA-/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/aasit96/DSA-/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/aasit96/DSA-/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
@@ -278,6 +279,7 @@ LEETCODE
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aasit96/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3794-reverse-string-prefix](https://github.com/aasit96/DSA-/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/aasit96/DSA-/tree/master/3884-first-matching-character-from-both-ends) |
 ## Pigeonhole Principle
 |  |
