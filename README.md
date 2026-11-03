@@ -67,6 +67,7 @@ LEETCODE
 | [0039-combination-sum](https://github.com/aasit96/DSA-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/aasit96/DSA-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/aasit96/DSA-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aasit96/DSA-/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/aasit96/DSA-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/aasit96/DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aasit96/DSA-/tree/master/0090-subsets-ii) |
@@ -133,6 +134,7 @@ LEETCODE
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aasit96/DSA-/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/aasit96/DSA-/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/aasit96/DSA-/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aasit96/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aasit96/DSA-/tree/master/0242-valid-anagram) |
@@ -429,6 +431,7 @@ LEETCODE
 | [0022-generate-parentheses](https://github.com/aasit96/DSA-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aasit96/DSA-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aasit96/DSA-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aasit96/DSA-/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/aasit96/DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aasit96/DSA-/tree/master/0090-subsets-ii) |
 ## Geometry
