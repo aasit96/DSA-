@@ -233,6 +233,7 @@ LEETCODE
 | [1816-truncate-sentence](https://github.com/aasit96/DSA-/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aasit96/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/aasit96/DSA-/tree/master/1859-sorting-the-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/aasit96/DSA-/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/aasit96/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/aasit96/DSA-/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/aasit96/DSA-/tree/master/2942-find-words-containing-character) |
@@ -283,6 +284,7 @@ LEETCODE
 | [0350-intersection-of-two-arrays-ii](https://github.com/aasit96/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/aasit96/DSA-/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/aasit96/DSA-/tree/master/0905-sort-array-by-parity) |
+| [2000-reverse-prefix-of-word](https://github.com/aasit96/DSA-/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aasit96/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aasit96/DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3794-reverse-string-prefix](https://github.com/aasit96/DSA-/tree/master/3794-reverse-string-prefix) |
@@ -352,6 +354,7 @@ LEETCODE
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aasit96/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/aasit96/DSA-/tree/master/0946-validate-stack-sequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/aasit96/DSA-/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/aasit96/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/aasit96/DSA-/tree/master/3174-clear-digits) |
 ## Design
