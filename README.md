@@ -25,6 +25,7 @@ LEETCODE
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aasit96/DSA-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aasit96/DSA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aasit96/DSA-/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/aasit96/DSA-/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aasit96/DSA-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/aasit96/DSA-/tree/master/2413-smallest-even-multiple) |
@@ -311,6 +312,7 @@ LEETCODE
 | [0412-fizz-buzz](https://github.com/aasit96/DSA-/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/aasit96/DSA-/tree/master/0566-reshape-the-matrix) |
 | [0946-validate-stack-sequences](https://github.com/aasit96/DSA-/tree/master/0946-validate-stack-sequences) |
+| [1688-count-of-matches-in-tournament](https://github.com/aasit96/DSA-/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aasit96/DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aasit96/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/aasit96/DSA-/tree/master/2390-removing-stars-from-a-string) |
