@@ -231,6 +231,7 @@ LEETCODE
 | [0771-jewels-and-stones](https://github.com/aasit96/DSA-/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aasit96/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aasit96/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/aasit96/DSA-/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/aasit96/DSA-/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aasit96/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/aasit96/DSA-/tree/master/1859-sorting-the-sentence) |
